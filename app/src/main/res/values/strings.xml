@@ -5,4 +5,5 @@
     <string name="pindah_activity_dengan_data">Pindah Activity dengan data</string>
     <string name="data_received">Data Received</string>
     <string name="dial_a_number">Dial a Number</string>
+    <string name="pindah_activity_dengan_object">Pindah Activity dengan Object</string>
 </resources>
